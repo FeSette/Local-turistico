@@ -1,0 +1,127 @@
+/* Page */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+    color: #1E1E1E;
+    background-color: #f5f4f0;
+}
+
+main {
+    margin: 88px 80px auto;
+    box-sizing: border-box;
+}
+
+/* image */
+
+main img {
+    border-radius: 28px;
+    width: 100%;   
+}
+
+/* Next-Trip */
+
+#headline {
+    font-size: 16px;
+    font-weight: bold;
+    color: #E1624F;
+    text-transform: uppercase;
+}
+
+#next-trip h1 {
+    font-size: 36px;
+    margin: 8px 0 40px 0;
+}
+
+
+#next-trip p {
+    font-style: italic;
+    text-align: center;
+    margin: 16px 0 44px 0;
+}
+
+/* Divider */
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin-top: 40px;
+  background-color: #d9d9d9;
+}
+
+/* Destinations */
+
+#destinations {
+    margin-top: 64px;
+}
+
+#destinations #headline {
+    margin-top: 64px;
+}
+
+#destinations h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 2px 0 8px 0;
+}
+
+#destinations #description {
+    font-size: 16px;
+    margin-bottom: 64px;
+}
+
+#destinations h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0 4px 5px;
+}
+
+/* Lists */
+
+ul span{
+    padding-left: 5px;
+}
+
+.history {
+    color: #0C51A7;
+}
+
+.couples {
+    color: #591B98;
+}
+
+.families {
+    color: #E5245E;
+}
+
+.budgets {
+    color: #E95E10;
+}
+
+/* Articles */
+
+article {
+    margin-bottom: 48px;
+}
+
+article span {
+    font-weight: bold;
+}
+
+/* bottom */
+
+#bottom {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer {
+    margin: 65px 0 48px 0;
+    text-align: center;
+}
